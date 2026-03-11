@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-PawFriends/",
+    "build": "vite build --base=/js_124_komandor131/",
     "preview": "vite preview"
   },
   "devDependencies": {
